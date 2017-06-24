@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/wsed0501/my-site-blog",
+  "PROJECT_NAME":"mysite",
+  "REMOTE_HOST":"factcheck.ml",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
